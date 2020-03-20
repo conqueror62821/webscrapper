@@ -1,0 +1,2 @@
+# webscrapping
+I made this repo few days back during black friday on amazon using selenium and BeautifulSoup. When you search for any item in this tool , it will look into serveral pages and will give you an item with the cheapest price. It gives you the price difference as well, previous price and current price and loggs all the products into json format in products.json for the future reference.
