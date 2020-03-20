@@ -4,3 +4,7 @@ I made this repo few days back during black friday on amazon using selenium and 
 # Have a look 😁
 ![Screenshot (45)](https://user-images.githubusercontent.com/48133426/77174557-3eb10680-6ae7-11ea-9f32-117a99be36f5.png)
 ![Screenshot (46)](https://user-images.githubusercontent.com/48133426/77174635-6011f280-6ae7-11ea-9dfc-e9b980dc0e1f.png)
+
+
+
+  [Full video tutorial](https://drive.google.com/open?id=1RBErrbo14FqOuc6LJ49zYngYlLY6ZWnh)
